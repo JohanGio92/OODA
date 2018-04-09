@@ -1,6 +1,6 @@
 # Alta cohesion
 
-### Porblema ¿Como mantener la complejidad manejable?
+### Problema ¿Como mantener la complejidad manejable?
 
 - la cohesion, o mas especificamente, la cohesion funcional, es una medida de que
 tan fuerte están relacionadas y enfocadas las responsabilidades que son de un elemento
